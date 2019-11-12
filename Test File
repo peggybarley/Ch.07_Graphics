@@ -1,0 +1,10 @@
+import arcade
+
+arcade.open_window(600, 600, "Star Wars Art")
+arcade.set_background_color((255, 188, 217))
+arcade.start_render()
+'''
+Drawing in here 
+'''
+arcade.finish_render()
+arcade.run()
