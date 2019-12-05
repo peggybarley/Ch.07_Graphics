@@ -25,6 +25,7 @@ arcade.draw_rectangle_filled(400, 185, 20, 230, (255, 211, 0), 200)
 arcade.draw_ellipse_filled(390, 300, 30, 75, (255, 211, 0), 120)
 arcade.draw_ellipse_filled(100, 300, 30, 75, (255, 211, 0), 225)
 
+
 arcade.finish_render()
 arcade.run()
 
